@@ -31,6 +31,9 @@ Para o desenvolvimento do projeto foi utilizada as seguintes tecnologias:
     pip install -r requirements.txt
 ```
 
+## :page_facing_up: Documentação da Api
+Api: [https://documenter.getpostman.com/view/4863125/T1DqfGjc?version=latest#d62de0b6-b001-44ca-809b-29dacea36380](Link Da Documentação)
+
 ## :man_technologist: Autor
 
 - **Daniel Rosendo** - [GitHub](https://github.com/sport129) - Email: [daniel.rosendos@hotmail.com](mailto:daniel.rosendos@hotmail.com)
